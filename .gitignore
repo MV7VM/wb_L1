@@ -1,1 +1,4 @@
 /go.mod
+/cmd/21/.idea/
+/cmd/21/.env
+/cmd/21/go.mod
